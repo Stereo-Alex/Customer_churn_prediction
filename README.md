@@ -14,5 +14,5 @@ Explanations and the metodology are in the Notebook.
 
 ## Links
 
-[Data](https://www.kaggle.com/blastchar/telco-customer-chun)
+[Data](https://www.kaggle.com/blastchar/telco-customer-churn)
 
